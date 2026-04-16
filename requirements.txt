@@ -1,0 +1,29 @@
+# ── LangGraph & LangChain core ──────────────────────────────────────────────
+langgraph
+langchain-core
+
+# ── LLM SDKs (direct clients used in models.py) ─────────────────────────────
+google-generativeai
+groq
+
+# ── Typing support (required by src/state.py TypedDict) ─────────────────────
+typing_extensions
+
+# ── Evaluation — semantic similarity ────────────────────────────────────────
+sentence-transformers
+torch          # CPU-only is fine; sentence-transformers pulls this
+
+# ── Evaluation — grammar & readability ──────────────────────────────────────
+language-tool-python
+textstat
+
+# ── Data handling ────────────────────────────────────────────────────────────
+pandas
+
+# ── UI ───────────────────────────────────────────────────────────────────────
+streamlit
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+python-dotenv
+tqdm
+colorama
