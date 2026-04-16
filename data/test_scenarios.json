@@ -9,21 +9,19 @@
       "The discussion covered a real-time fraud detection system the team is building",
       "The candidate is strongly interested in the position"
     ],
-    "tone": "formal",
-    "human_reference_email": "Subject: Follow-Up – AI Engineer Interview – April 9th\n\nDear Ms. Chen,\n\nThank you sincerely for taking the time to meet with me on Wednesday, April 9th, to discuss the AI Engineer position. I thoroughly enjoyed our conversation and appreciated the opportunity to learn more about your team's goals.\n\nOur discussion regarding the real-time fraud detection system was particularly engaging. The technical challenges you described align closely with my background and areas of deep interest, and I am confident I can contribute meaningfully to the project.\n\nI remain strongly interested in joining your team and am excited about the possibility of contributing to such impactful work. Please do not hesitate to contact me if you need any additional information or materials.\n\nThank you again for your time and consideration.\n\nYours sincerely,\n[Your Name]\n[Your Phone Number]\n[Your Email]"
+    "tone": "formal"
   },
   {
     "scenario_id": 2,
     "intent": "Cold outreach to a potential enterprise client",
     "facts": [
       "The prospect's name is Mr. David Okafor, Head of Operations at LogiTrack Ltd",
-      "Our product is called ShipSmart — an AI-powered logistics optimisation platform",
+      "Our product is called ShipSmart \u2014 an AI-powered logistics optimisation platform",
       "ShipSmart reduces delivery costs by an average of 23% within 90 days",
       "We recently helped a similar company, FreightMax, cut their last-mile costs by 31%",
       "Offering a free 14-day pilot with no credit card required"
     ],
-    "tone": "persuasive and professional",
-    "human_reference_email": "Subject: Cut LogiTrack's Delivery Costs by 23% – Free Pilot Inside\n\nDear Mr. Okafor,\n\nI hope this message finds you well. My name is [Your Name], and I am reaching out because I believe ShipSmart, our AI-powered logistics optimisation platform, could deliver significant value to LogiTrack Ltd's operations.\n\nOur clients see an average 23% reduction in delivery costs within 90 days of deployment. Most recently, we helped FreightMax — a company with a very similar operational profile to LogiTrack — cut their last-mile costs by 31%. We achieved this without any disruption to their existing systems.\n\nI would love to offer you a complimentary 14-day pilot so you can see the results firsthand — no credit card, no commitment. Would you be open to a 20-minute call this week to explore whether ShipSmart is a good fit?\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]\n[Your Title], ShipSmart\n[Your Email] | [Your Phone]"
+    "tone": "persuasive and professional"
   },
   {
     "scenario_id": 3,
@@ -35,8 +33,7 @@
       "We are requesting a two-week extension, making the new deadline May 2nd",
       "We will provide a detailed progress update by April 21st to reassure the client"
     ],
-    "tone": "apologetic and professional",
-    "human_reference_email": "Subject: Request for Project Deadline Extension – Dashboard Project\n\nDear Ms. Patel,\n\nI am writing to you with sincere apologies regarding the dashboard project that was scheduled for delivery on April 18th. Unfortunately, we have encountered an unexpected and unavoidable setback that requires me to request a brief extension.\n\nOur lead developer was taken on unplanned medical leave earlier this week. This has directly impacted our delivery timeline, and I want to be fully transparent with you rather than compromise the quality of the work.\n\nWe are respectfully requesting a two-week extension, which would move the delivery date to May 2nd. I want to assure you that this is the only impact on the project, and the quality of the final deliverable will fully meet the agreed specifications. Additionally, we will provide you with a comprehensive progress update by April 21st so you can see exactly where we stand.\n\nWe deeply value our relationship with Nexus Digital and apologise for any inconvenience this causes. Please let me know if you would like to discuss this further.\n\nYours sincerely,\n[Your Name]\n[Your Title]\n[Your Company]"
+    "tone": "apologetic and professional"
   },
   {
     "scenario_id": 4,
@@ -48,21 +45,19 @@
       "They had an interesting discussion about vector databases and RAG architectures",
       "The writer wants to schedule a virtual coffee chat in the coming weeks"
     ],
-    "tone": "warm and casual",
-    "human_reference_email": "Subject: Great Meeting You at the AI Builders Meetup!\n\nHey Rohan,\n\nReally glad I got to chat with you at the AI Builders Meetup on Saturday evening — time flew by! Your perspective on vector databases and how you're applying RAG architectures at DataVine was genuinely fascinating, and it sparked a bunch of ideas for me on the way home.\n\nI'd love to continue the conversation — would you be up for a virtual coffee chat sometime in the next couple of weeks? No agenda, just a relaxed catch-up to keep the ideas flowing.\n\nLooking forward to staying connected!\n\nCheers,\n[Your Name]"
+    "tone": "warm and casual"
   },
   {
     "scenario_id": 5,
     "intent": "Formal complaint about a vendor's service failure",
     "facts": [
       "Vendor name is CloudHost Pro",
-      "Our website experienced 14 hours of unplanned downtime between April 10–11",
+      "Our website experienced 14 hours of unplanned downtime between April 10\u201311",
       "The SLA guarantees 99.9% uptime, which was clearly breached",
       "Estimated revenue loss due to the outage is $8,400",
       "Requesting a formal written explanation and appropriate SLA credit within 5 business days"
     ],
-    "tone": "firm and professional",
-    "human_reference_email": "Subject: Formal Complaint – SLA Breach and Unplanned Downtime – April 10–11\n\nDear CloudHost Pro Support Team,\n\nI am writing to formally register a complaint regarding a serious service failure that occurred between April 10th and April 11th. Our website experienced 14 consecutive hours of unplanned downtime, a direct breach of the 99.9% uptime guarantee stipulated in our Service Level Agreement.\n\nThis outage had a material impact on our business operations. Our internal analysis estimates the resulting revenue loss at approximately $8,400, not accounting for the reputational damage and disruption to our customers.\n\nWe expect this matter to be treated with the highest priority. Specifically, we are requesting the following within five business days:\n\n  1. A formal written explanation detailing the root cause of the outage.\n  2. Confirmation of the SLA credit we are entitled to as a result of this breach.\n\nWe trust that CloudHost Pro takes its service commitments seriously and will address this matter promptly. Should we not receive a satisfactory response within the stated timeframe, we will have no choice but to escalate this matter accordingly.\n\nYours faithfully,\n[Your Name]\n[Your Title]\n[Your Company]"
+    "tone": "firm and professional"
   },
   {
     "scenario_id": 6,
@@ -72,11 +67,10 @@
       "FocusAI automatically blocks distracting apps and schedules deep-work sessions based on calendar data",
       "Beta users report an average 40% increase in focused work hours per week",
       "Integrates natively with Google Calendar, Slack, and Microsoft Teams",
-      "Offering a free 30-day trial — no credit card required",
+      "Offering a free 30-day trial \u2014 no credit card required",
       "Target recipient is a busy team leader managing a remote engineering team"
     ],
-    "tone": "energetic and persuasive",
-    "human_reference_email": "Subject: Your Team Could Reclaim 40% More Deep-Work Hours — Free for 30 Days\n\nHi [Name],\n\nManaging a remote engineering team is demanding enough without constant pings, context-switching, and calendar chaos eating into your team's focus time. That's exactly the problem FocusAI was built to solve.\n\nFocusAI automatically blocks distracting apps and intelligently schedules deep-work sessions around your team's existing calendar data. It integrates natively with Google Calendar, Slack, and Microsoft Teams — so setup takes minutes, not days. Our beta users are already seeing an average 40% increase in focused work hours every single week.\n\nWe'd love for you to experience it yourself. Try FocusAI completely free for 30 days — no credit card required, no commitment.\n\nSound interesting? Hit reply and I'll get you set up today.\n\nBest,\n[Your Name]\nFocusAI Team"
+    "tone": "energetic and persuasive"
   },
   {
     "scenario_id": 7,
@@ -88,8 +82,7 @@
       "The new submission portal is available at expenses.company.com",
       "HR will host a 30-minute Q&A webinar on April 25th at 3:00 PM"
     ],
-    "tone": "neutral and informative",
-    "human_reference_email": "Subject: Important Update: New Expense Reimbursement Policy – Effective May 1st\n\nDear Team,\n\nI am writing to inform you of an update to our company's expense reimbursement policy, which will come into effect on May 1st. Please read the following changes carefully as they affect all team members.\n\nKey changes effective May 1st:\n\n  1. Manager approval required: All expense claims exceeding $200 must receive manager approval prior to submission.\n  2. Submission deadline: All receipts must be submitted within 15 calendar days of the expense date.\n  3. New submission portal: All claims are to be submitted via the new online portal at expenses.company.com.\n\nTo help answer any questions, our HR team will host a 30-minute Q&A webinar on April 25th at 3:00 PM. Attendance is encouraged, and a recording will be made available for those unable to join.\n\nIf you have any immediate questions, please reach out to the HR team directly.\n\nThank you for your attention to this update.\n\nBest regards,\n[Your Name]\nHR / Operations Team"
+    "tone": "neutral and informative"
   },
   {
     "scenario_id": 8,
@@ -102,8 +95,7 @@
       "Proposing a co-branded integration where GreenPath's data feeds directly into EcoMetrics reports",
       "Requesting an introductory call at Ms. Ramirez's convenience"
     ],
-    "tone": "formal and collaborative",
-    "human_reference_email": "Subject: Partnership Proposal – EcoMetrics × GreenPath Analytics Integration\n\nDear Ms. Ramirez,\n\nI hope this message finds you well. I am [Your Name], CEO of EcoMetrics, a sustainability reporting platform currently serving over 300 mid-market enterprises. I am reaching out because I believe there is a compelling opportunity for a strategic partnership between EcoMetrics and GreenPath Analytics.\n\nGreenPath's expertise in carbon footprint data collection is widely respected, and it represents precisely the foundational layer that our clients require. EcoMetrics, in turn, provides the reporting and visualisation infrastructure that transforms raw environmental data into boardroom-ready ESG reports. Together, I believe we can deliver a co-branded integration that creates significant value for both our client bases.\n\nThe proposed arrangement would see GreenPath's data feeds integrated directly into the EcoMetrics reporting engine, enabling a seamless end-to-end ESG workflow for our shared market.\n\nI would very much welcome the opportunity to explore this further with you. Would you be available for a brief introductory call at your convenience?\n\nYours sincerely,\n[Your Name]\nCEO, EcoMetrics\n[Your Email] | [Your Phone]"
+    "tone": "formal and collaborative"
   },
   {
     "scenario_id": 9,
@@ -112,11 +104,10 @@
       "Client name is Mr. Thomas Nguyen at Brightline Media",
       "The mobile app project was due on April 14th",
       "The delay was caused by an unexpected API integration issue with a third-party payment provider",
-      "The revised delivery date is April 22nd — a delay of 8 days",
+      "The revised delivery date is April 22nd \u2014 a delay of 8 days",
       "Offering a 10% discount on the final invoice as goodwill compensation"
     ],
-    "tone": "empathetic and accountable",
-    "human_reference_email": "Subject: Sincere Apology – Mobile App Delivery Delay\n\nDear Mr. Nguyen,\n\nI am writing to personally apologise for the delay in delivering the Brightline Media mobile app project, which was due on April 14th. I understand how important this timeline is to your business, and I am truly sorry for the disruption this has caused.\n\nThe delay was caused by an unexpected technical issue during the integration of a third-party payment provider's API. Despite our best efforts to resolve this quickly, the issue required more time than anticipated to implement a stable, production-ready solution.\n\nI want to be fully transparent: the revised delivery date is April 22nd, representing an 8-day delay. We are doing everything in our power to ensure the remaining work is completed to the highest standard.\n\nAs a gesture of goodwill and in recognition of the inconvenience this has caused, we will be applying a 10% discount to your final invoice.\n\nThank you for your patience and understanding, Mr. Nguyen. We remain fully committed to delivering an excellent product for Brightline Media.\n\nWarm regards,\n[Your Name]\n[Your Title]\n[Your Company]"
+    "tone": "empathetic and accountable"
   },
   {
     "scenario_id": 10,
@@ -128,7 +119,6 @@
       "Available any time during the week of April 28th",
       "Willing to accommodate Dr. Foster's schedule entirely"
     ],
-    "tone": "respectful and concise",
-    "human_reference_email": "Subject: Meeting Request – AI Adoption Strategy Discussion\n\nDear Dr. Foster,\n\nI hope you are keeping well. My name is [Your Name], and I lead AI strategy initiatives at [Your Company]. I am writing to respectfully request a 30-minute meeting at your convenience.\n\nHaving followed Meridian Group's Q1 strategy announcement with great interest, I believe I have a few specific insights on AI adoption that may be relevant to your team's current direction. I would welcome the opportunity to share these in a brief, focused conversation.\n\nI am fully available throughout the week of April 28th and am happy to accommodate whatever time suits your schedule.\n\nThank you for considering this request. I very much look forward to the possibility of speaking with you.\n\nYours respectfully,\n[Your Name]\n[Your Title], [Your Company]\n[Your Email] | [Your Phone]"
+    "tone": "respectful and concise"
   }
 ]
